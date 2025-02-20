@@ -1,4 +1,4 @@
-# password-generator
+# TO-do list
 This proyect is a basic to do list made with Javascript and CSS.
 
 
